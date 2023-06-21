@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "确认订单",
-  "enablePullDownRefresh": false,
-  "navigationBarBackgroundColor": "#fff",
-  "usingComponents": {
-    "lines": "/components/common/Lines"
-  }
-}

@@ -1,8 +1,0 @@
-{
-  "navigationBarTitleText": "商品详情",
-  "navigationBarBackgroundColor": "#fff",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "shop-list": "/components/common/ShopList"
-  }
-}

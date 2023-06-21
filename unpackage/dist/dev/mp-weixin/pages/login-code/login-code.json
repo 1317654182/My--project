@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "输入验证码",
-  "enablePullDownRefresh": false,
-  "usingComponents": {
-    "lines": "/components/common/Lines"
-  }
-}
