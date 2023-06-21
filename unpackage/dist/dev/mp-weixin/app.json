@@ -1,0 +1,29 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/list/list",
+    "pages/shopcart/shopcart",
+    "pages/my/my",
+    "pages/search/search",
+    "pages/search-list/search-list",
+    "pages/details/details",
+    "pages/my-config/my-config",
+    "pages/my-path-list/my-path-list",
+    "pages/my-add-path/my-add-path",
+    "pages/my-order/my-order",
+    "pages/confirm-order/confirm-order",
+    "pages/payment/payment",
+    "pages/payment-success/payment-success",
+    "pages/login/login",
+    "pages/login-tel/login-tel",
+    "pages/login-code/login-code"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "usingComponents": {}
+}

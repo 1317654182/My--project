@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "分类",
+  "navigationBarBackgroundColor": "#fff",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "lines": "/components/common/Lines",
+    "tap-bar": "/components/common/TapBar"
+  }
+}
