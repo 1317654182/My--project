@@ -1,0 +1,72 @@
+{
+  "id": "3297833",
+  "name": "OAIndex",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "28695698",
+      "name": "processing",
+      "font_class": "processing",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "28695699",
+      "name": "export",
+      "font_class": "export",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "28695700",
+      "name": "done",
+      "font_class": "done",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "28695701",
+      "name": "allapp",
+      "font_class": "allapp",
+      "unicode": "e612",
+      "unicode_decimal": 58898
+    },
+    {
+      "icon_id": "28695702",
+      "name": "myapp",
+      "font_class": "myapp",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "28695703",
+      "name": "editapp",
+      "font_class": "editapp",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "28695704",
+      "name": "refresh",
+      "font_class": "refresh",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "28695705",
+      "name": "draft",
+      "font_class": "draft",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "28695706",
+      "name": "inquire",
+      "font_class": "inquire",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    }
+  ]
+}

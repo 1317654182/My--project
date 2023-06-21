@@ -1,0 +1,142 @@
+.content-shree {
+    .content-shree-one {
+        .img_list {
+            width: 1.875rem;
+            height: 1.875rem;
+            margin-bottom: -.3125rem;
+            margin-right: 1.1875rem;
+        }
+
+        span {
+            width: 5.8125rem;
+            height: 1.5rem;
+            font-size: 1.5rem;
+            font-family: Microsoft YaHei;
+            font-weight: bold;
+            color: #333333;
+            line-height: 2.25rem;
+        }
+
+        .content-shree-grzc {
+            background-color: #6c95d4;
+            float: right;
+            padding: 5px 10px;
+            border-radius: .1875rem;
+            margin-top: 3px;
+            margin-left: 5px;
+            z-index: 1;
+            img {
+                width: 1rem;
+                height: 1rem;
+                margin: 0px .375rem -.0625rem 0;
+            }
+
+            i {
+                font-size: .875rem;
+                color: #fff;
+                font-style: normal;
+            }
+        }
+
+    }
+
+    .content-shree-tow {
+        p {
+            font-size: 1.125rem;
+            font-family: Microsoft YaHei;
+            font-weight: 400;
+            color: #2B3E5A;
+            line-height: 2.25rem;
+        }
+
+        i {
+            color: #333333;
+            font-style: normal;
+        }
+
+        p:nth-child(2) {
+            color: #2D6ED2;
+        }
+    }
+
+    .content-shree-shree {
+        position: relative;
+
+        .content-list {
+            display: flex;
+            justify-content: space-between;
+            flex-wrap: wrap;
+            width: 66.875rem;
+            overflow: hidden;
+
+            div {
+                width: 21.25rem;
+                margin-top: 3.125rem;
+
+                .img_list {
+                    width: 1rem;
+                    height: 1rem;
+                    margin-right: .3125rem;
+                }
+
+                p {
+                    font-size: 1.5rem;
+                    font-family: Microsoft YaHei;
+                    font-weight: 400;
+                    color: #333333;
+                    line-height: 2.25rem;
+                    display: inline;
+                    white-space: nowrap;
+
+                    .bj-area {
+                        width: 6.25rem;
+                        height: 1.875rem;
+                        position: absolute;
+                        left: 24rem;
+                        right: 0;
+                        top: 5rem;
+                        bottom: 0;
+                        font-size: .875rem;
+                        font-family: Microsoft YaHei;
+                        font-weight: 400;
+                        color: #666666;
+                        font-style: normal;
+                    }
+                }
+
+                div {
+                    width: 4.75rem;
+                    height: 1.5rem;
+                    border: .0625rem solid #CCCCCC;
+                    border-radius: .125rem;
+                    display: inline;
+                    font-size: .875rem;
+                    font-family: Microsoft YaHei;
+                    font-weight: 400;
+                    text-align: center;
+                    margin-top: .4375rem;
+                    float: right;
+                    cursor: default;
+                    a {
+                        text-decoration: none;
+                        color: #666666;
+                    }
+                }
+
+                div:nth-child(3) {
+                    width: 4.75rem;
+                    height: 1.5rem;
+                    background: #F78761;
+                    border-radius: .125rem;
+                    border: 0;
+                    line-height: 1.5rem;
+                    margin-left: .625rem;
+
+                    a {
+                        color: #FFFFFF;
+                    }
+                }
+            }
+        }
+    }
+}
